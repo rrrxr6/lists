@@ -1,6 +1,6 @@
 ---
 title: Favorite Movies
-layout: movie
+parent: Movie
 ---
 
 test movies
