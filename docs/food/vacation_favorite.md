@@ -1,6 +1,6 @@
 ---
 title: Favorite Vacation Foods
-layout: food
+parent: Food
 ---
 
 test vacation favorite
