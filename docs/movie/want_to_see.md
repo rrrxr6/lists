@@ -1,6 +1,6 @@
 ---
 title: Movies I Want To See
-layout: movie
+parent: Movie
 ---
 
 test want to see
