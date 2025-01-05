@@ -1,6 +1,6 @@
 ---
 title: Favorite Television
-patent: Television
+parent: Television
 ---
 
 - Community
