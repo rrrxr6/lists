@@ -3,4 +3,5 @@ title: Favorite Vacation Foods
 parent: Food
 ---
 
-test vacation favorite
+- Crudo (Vail, CO)
+- Xiuxiu (Barcelona, Spain)

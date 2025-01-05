@@ -3,4 +3,8 @@ title: Favorite Movies
 parent: Movie
 ---
 
-test movies
+- Glass Onion: A Knives Out Mystery
+- Dune Part One
+- The Hateful Eight
+- Scott Pilgrim vs. the World
+- Avengers: Endgame
