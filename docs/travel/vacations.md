@@ -3,9 +3,10 @@ title: Vacations
 parent: Travel
 ---
 
-- Branson, MO (2015)
+- Branson, MO (2012)
+- Chicago, IL (2014)
+- Orlando, FL (2015)
 - Harbin, China (2016)
-- Orlando, FL (2017)
 - Beijing, China (2018)
 - Ireland & N. Ireland & Iceland (Cruise, 2019)
 - Orlando, FL (2020)
