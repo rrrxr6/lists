@@ -15,4 +15,5 @@ parent: Travel
 - Riviera Maya, Mexico (2023)
 - Oklahoma (2023)
 - Italy & Monaco & France & Spain (Cruise, 2023)
+- San Diego, CA (2024)
 - China & Thailand (2024)
