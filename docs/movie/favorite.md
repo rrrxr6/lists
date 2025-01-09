@@ -8,3 +8,4 @@ parent: Movie
 - The Hateful Eight
 - Scott Pilgrim vs. the World
 - Avengers: Endgame
+- Interstellar
