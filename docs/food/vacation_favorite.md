@@ -9,3 +9,5 @@ parent: Food
 - Crudo from Sweet Basil (Vail, CO)
 - Prosciutto sandwich from I Fratellini (Florence, Italy)
 - Xuxo de crema from La Colmena (Barcelona, Spain)
+- Cheesy birria burrito from Taqueria Los Chuchys (San Diego, CA)
+  
