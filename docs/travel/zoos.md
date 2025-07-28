@@ -15,6 +15,7 @@ parent: Travel
 - Sea World Orlando
 - Siegfried and Roy's Secret Garden
 - Oklahoma City
+- Lewis Adventure Farm
 - Husdyragardurinn
 - Barcelona
 - Fota
