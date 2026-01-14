@@ -16,6 +16,7 @@ parent: Travel
 - Siegfried and Roy's Secret Garden
 - Oklahoma City
 - Lewis Adventure Farm
+- Miami
 - Husdyragardurinn
 - Barcelona
 - Fota
